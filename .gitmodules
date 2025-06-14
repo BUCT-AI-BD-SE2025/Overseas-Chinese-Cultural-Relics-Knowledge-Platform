@@ -1,0 +1,3 @@
+[submodule "后台管理子系统"]
+	path = 后台管理子系统
+	url = https://github.com/BUCT-AI-BD-SE2025/ManagementSystem.git
