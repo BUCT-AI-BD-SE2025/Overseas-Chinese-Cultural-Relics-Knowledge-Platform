@@ -1,3 +1,15 @@
 [submodule "后台管理子系统"]
 	path = 后台管理子系统
 	url = https://github.com/BUCT-AI-BD-SE2025/ManagementSystem.git
+[submodule "知识图谱构建子系统"]
+	path = 知识图谱构建子系统
+	url = https://github.com/BUCT-AI-BD-SE2025/knowledge_graph.git
+[submodule "海外文物知识子系统"]
+	path = 海外文物知识子系统
+	url = https://github.com/BUCT-AI-BD-SE2025/Web.git
+[submodule "知识问答子系统"]
+	path = 知识问答子系统
+	url = https://github.com/BUCT-AI-BD-SE2025/QA.git
+[submodule "掌上博物馆"]
+	path = 掌上博物馆
+	url = https://github.com/BUCT-AI-BD-SE2025/APP.git
